@@ -3,4 +3,4 @@
 ### - Thread of Execution
 ### - Scope & Hoisting 
 ### - Higher Order Function 
-### - Closure 
+### - Closure
