@@ -1,6 +1,6 @@
 # Advanced JavaScript 
 ## 1. Scope, Closure and HOF 
 ###  - Thread of Execution
-### - Scope & Hoisting 
+###  - Scope & Hoisting 
 ###  - Higher Order Function 
 ### - Closure
